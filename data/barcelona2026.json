@@ -1,0 +1,14 @@
+{
+ "year":2026,"gp":"Spanish Grand Prix","circuit":"Circuit de Barcelona-Catalunya","circuitId":"catalunya",
+ "team":"Ferrari","grid":2,"finish":1,"points":25,"laps":66,"gap":"+19.561s","win":106,
+ "positionByLap":[2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
+ "stints":[{"compound":"Medium","from":1,"to":15},{"compound":"Hard","from":16,"to":36},{"compound":"Hard","from":37,"to":66}],
+ "timeline":[
+  {"lap":1,"label":"LIGHTS OUT","text":"Second on the grid into Turn 1, holding the inside line."},
+  {"lap":3,"label":"THE LEAD","text":"Into the lead on lap 3 and clear of DRS range by lap 6."},
+  {"lap":16,"label":"STOP 1","text":"Medium to hard, 2.4s. Emerges third behind two cars yet to stop."},
+  {"lap":20,"label":"BACK IN FRONT","text":"Net lead restored once the alternate strategies cycle through."},
+  {"lap":37,"label":"STOP 2","text":"Hard to hard, 2.3s. A ten-second gap held through the stop."},
+  {"lap":66,"label":"THE FLAG","text":"Wins by 19.561s. The 106th Grand Prix victory, and the first in red."}
+ ]
+}

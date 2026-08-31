@@ -1,0 +1,23 @@
+[
+ {"year":2008,"team":"McLaren","points":98,"wins":5,"poles":7,"podiums":10,"fastestLaps":1,"margin":1,"rival":"Felipe Massa","rivalPoints":97,"clinched":"Brazilian Grand Prix, Interlagos",
+  "definingMoment":"Interlagos, last lap, Turn 13. Hamilton needed fifth. He passed Timo Glock's dry-tyred Toyota on the final corner of the final lap of the season to take it by one point — the smallest margin the title had been decided by since 1984.",
+  "line":"ONE POINT."},
+ {"year":2014,"team":"Mercedes","points":384,"wins":11,"poles":7,"podiums":16,"fastestLaps":7,"margin":67,"rival":"Nico Rosberg","rivalPoints":317,"clinched":"Abu Dhabi Grand Prix, Yas Marina",
+  "definingMoment":"The first year of the hybrid regulations, and the first year of a rivalry conducted inside one garage. Eleven wins to Rosberg's five, settled in a double-points finale Hamilton led from the first corner.",
+  "line":"THE HYBRID ERA OPENS."},
+ {"year":2015,"team":"Mercedes","points":381,"wins":10,"poles":11,"podiums":17,"fastestLaps":8,"margin":59,"rival":"Nico Rosberg","rivalPoints":322,"clinched":"United States Grand Prix, Austin",
+  "definingMoment":"Sealed at Austin with three races still to run, after a first-corner move on Rosberg in a race that changed condition four times. The most complete of the seven seasons.",
+  "line":"THREE RACES TO SPARE."},
+ {"year":2017,"team":"Mercedes","points":363,"wins":9,"poles":11,"podiums":13,"fastestLaps":7,"margin":46,"rival":"Sebastian Vettel","rivalPoints":317,"clinched":"Mexican Grand Prix, Autódromo Hermanos Rodríguez",
+  "definingMoment":"Ferrari led the championship at the summer break. Hamilton won Spa, Monza and Singapore in sequence and the season never returned. A fourth title, and the first won against a rival in another car.",
+  "line":"A DIFFERENT OPPONENT."},
+ {"year":2018,"team":"Mercedes","points":408,"wins":11,"poles":11,"podiums":17,"fastestLaps":3,"margin":88,"rival":"Sebastian Vettel","rivalPoints":320,"clinched":"Mexican Grand Prix, Autódromo Hermanos Rodríguez",
+  "definingMoment":"Hockenheim, from fourteenth on the grid, in a race that started dry and did not stay that way. Vettel led and crashed out. Hamilton won. The championship was effectively decided in ninety minutes.",
+  "line":"PRECISION BECAME DOMINANCE."},
+ {"year":2019,"team":"Mercedes","points":413,"wins":11,"poles":5,"podiums":17,"fastestLaps":6,"margin":87,"rival":"Valtteri Bottas","rivalPoints":326,"clinched":"United States Grand Prix, Austin",
+  "definingMoment":"Seventeen podiums from twenty-one starts and the highest points total of his career, built on a season with fewer poles than any title year before it. The speed moved from Saturday to Sunday.",
+  "line":"SATURDAY TO SUNDAY."},
+ {"year":2020,"team":"Mercedes","points":347,"wins":11,"poles":10,"podiums":14,"fastestLaps":6,"margin":124,"rival":"Valtteri Bottas","rivalPoints":223,"clinched":"Turkish Grand Prix, Istanbul Park",
+  "definingMoment":"Istanbul Park, wet, sixth on the grid, on a set of intermediate tyres taken down to the canvas across a single stint. A seventh title, equalling Michael Schumacher, in a season shortened to seventeen races.",
+  "line":"SEVEN."}
+]

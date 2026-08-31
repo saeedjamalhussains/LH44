@@ -1,0 +1,12 @@
+{
+  "driver": {"firstName":"Lewis","lastName":"Hamilton","number":44,"code":"HAM","nationality":"British","team":"Ferrari","active":true},
+  "updatedAt":"2026-08-31",
+  "seedNote":"Static seed snapshot. When the FastF1/Jolpica backend is reachable it supersedes every value here.",
+  "sources":{
+    "career":{"label":"Formula1.com","url":"https://www.formula1.com/en/drivers/lewis-hamilton"},
+    "seasons":{"label":"Formula1.com season classifications","url":"https://www.formula1.com/en/results"},
+    "telemetry":{"label":"FastF1 session data","url":"https://docs.fastf1.dev"},
+    "results":{"label":"Jolpica F1 API","url":"https://api.jolpi.ca/ergast/f1/"},
+    "derived":{"label":"Calculated from the season table","url":null}
+  }
+}

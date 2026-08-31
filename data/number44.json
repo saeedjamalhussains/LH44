@@ -1,0 +1,11 @@
+{
+ "origin":"44 was the number on Hamilton's first kart. He returned to it in 2014, the first season in which Formula 1 drivers chose a permanent career number, and has raced with it since.",
+ "stages":[
+  {"stage":"KARTING","year":"1993","text":"The first kart carried 44. A number chosen because it was on the plate, not because it meant anything yet."},
+  {"stage":"JUNIOR FORMULAE","year":"2000–2006","text":"Formula Renault, Formula 3 Euro Series, GP2. Different numbers, one championship each, three years."},
+  {"stage":"FORMULA 1","year":"2007–2013","text":"Numbers assigned by constructors' standing. 2, 22, 1, 2, 3, 4, 10. The number belonged to the team, not the driver."},
+  {"stage":"MERCEDES","year":"2014–2024","text":"Permanent numbers arrive. Hamilton takes 44 and wins six world championships carrying it."},
+  {"stage":"FERRARI","year":"2025–","text":"44 in red. The one element of the livery that did not change."}
+ ],
+ "note":"A world champion may run number 1. Hamilton has never used it."
+}

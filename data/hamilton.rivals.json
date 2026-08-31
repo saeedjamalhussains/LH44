@@ -1,0 +1,21 @@
+[
+ {"id":"rosberg","name":"Nico Rosberg","years":"2013–2016","teammate":true,"championships":1,"wins":23,"poles":30,"podiums":57,"points":1594.5,
+  "h2hQualifying":{"hamilton":42,"rival":36},"h2hRace":{"hamilton":41,"rival":30},"seasons":[2013,2014,2015,2016],
+  "note":"Four seasons in the same car — the only rivalry on this page where the machinery is a controlled variable.",
+  "seasonSplit":[{"year":2013,"ham":{"pts":189,"wins":1,"poles":5},"riv":{"pts":171,"wins":0,"poles":3}},{"year":2014,"ham":{"pts":384,"wins":11,"poles":7},"riv":{"pts":317,"wins":5,"poles":11}},{"year":2015,"ham":{"pts":381,"wins":10,"poles":11},"riv":{"pts":322,"wins":6,"poles":7}},{"year":2016,"ham":{"pts":380,"wins":10,"poles":12},"riv":{"pts":385,"wins":9,"poles":8}}]},
+ {"id":"verstappen","name":"Max Verstappen","years":"2016–present","teammate":false,"championships":4,"wins":65,"poles":45,"podiums":115,"points":3300,
+  "h2hQualifying":null,"h2hRace":null,"seasons":[2021],
+  "note":"Different cars, different teams, overlapping peaks. 2021 is the only season in which both drivers had a car capable of winning the championship."},
+ {"id":"vettel","name":"Sebastian Vettel","years":"2007–2022","teammate":false,"championships":4,"wins":53,"poles":57,"podiums":122,"points":3098,
+  "h2hQualifying":null,"h2hRace":null,"seasons":[2017,2018],
+  "note":"Two direct title fights, 2017 and 2018, both decided before the final round."},
+ {"id":"alonso","name":"Fernando Alonso","years":"2007–present","teammate":true,"championships":2,"wins":32,"poles":22,"podiums":106,"points":2350,
+  "h2hQualifying":{"hamilton":8,"rival":9},"h2hRace":{"hamilton":9,"rival":8},"seasons":[2007],
+  "note":"Teammates for one season, 2007. Both finished the year on 109 points, one behind the champion."},
+ {"id":"russell","name":"George Russell","years":"2022–2024","teammate":true,"championships":0,"wins":4,"poles":6,"podiums":19,"points":800,
+  "h2hQualifying":{"hamilton":26,"rival":42},"h2hRace":{"hamilton":32,"rival":32},"seasons":[2022,2023,2024],
+  "note":"Three seasons alongside a driver fifteen years younger, in the least competitive cars of Hamilton's Mercedes period."},
+ {"id":"leclerc","name":"Charles Leclerc","years":"2025–present","teammate":true,"championships":0,"wins":8,"poles":26,"podiums":45,"points":1400,
+  "h2hQualifying":null,"h2hRace":null,"seasons":[2025,2026],
+  "note":"The current comparison, and the incomplete one. Head-to-head counts are read live from the results API rather than stored here."}
+]
